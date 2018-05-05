@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "android.coolweather.com.coolweather"
+        applicationId "com.coolweather.android.coolweather"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1

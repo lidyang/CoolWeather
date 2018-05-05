@@ -1,8 +1,7 @@
-package com.coolweather.android;
+package com.coolweather.android.coolweather;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.coolweather.com.coolweather.R;
 
 public class MainActivity extends AppCompatActivity {
 
